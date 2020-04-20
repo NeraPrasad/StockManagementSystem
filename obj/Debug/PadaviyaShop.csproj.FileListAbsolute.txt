@@ -1,0 +1,107 @@
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe.config
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Home.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Properties.Resources.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csproj.GenerateResource.Cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.OrderItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.ManageItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Stoke.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Report.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csprojResolveAssemblyReference.cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.ForgetPass.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Login.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe.config
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\MySql.Data.DLL
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csprojResolveAssemblyReference.cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.ForgetPass.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Home.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Login.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Properties.Resources.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.ManageItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Report.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Stoke.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csproj.GenerateResource.Cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.load.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe.config
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\MySql.Data.DLL
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csprojResolveAssemblyReference.cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.ForgetPass.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Home.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Login.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Properties.Resources.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.ManageItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.load.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Report.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Stoke.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csproj.GenerateResource.Cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe.config
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.ForgetPass.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Home.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Login.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Properties.Resources.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.ManageItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.load.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Report.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Stoke.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csproj.GenerateResource.Cache
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.WeastItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Dashboard.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Setting.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop 3\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csprojResolveAssemblyReference.cache
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe.config
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.exe
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\PadaviyaShop.pdb
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csprojResolveAssemblyReference.cache
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.ForgetPass.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Home.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Login.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.Properties.Resources.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Dashboard.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.ManageItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.load.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Report.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Setting.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.UC.Stoke.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.WeastItem.resources
+D:\Project\Language\C#\#3 Padavaiya Shop\StokeManagement\PadaviyaShop\PadaviyaShop\obj\Debug\PadaviyaShop.csproj.GenerateResource.Cache
